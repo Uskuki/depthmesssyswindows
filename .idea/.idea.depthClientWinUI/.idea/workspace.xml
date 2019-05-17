@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29ff30dc-70b9-4cd4-bf78-7a1a21dfceef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.depthClientWinUI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.depthClientWinUI/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.depthClientWinUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.depthClientWinUI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IChatsViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IChatsViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatsViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatsViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/core/VisualComponents/obj/Debug/VisualComponents.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/core/VisualComponents/obj/Debug/VisualComponents.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/visualAddittions/VisualResources/obj/Debug/VisualResources.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/visualAddittions/VisualResources/obj/Debug/VisualResources.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/framework/depth/MainWindow.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+              <folding>
+                <marker date="1557252618222" expanded="true" signature="0:1020" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &#10;        &lt;StackPanel Grid.Column=&quot;0&quot;&gt;&#10;            &lt;rxui:RoutedViewHost Router=&quot;{Binding Router}&quot;&#10;                                 HorizontalContentAlignment=&quot;Stretch&quot;&#10;                                 VerticalContentAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;/rxui:RoutedViewHost&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;StackPanel Grid.Column=&quot;1&quot;&gt;&lt;/StackPanel&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1557252618222" expanded="true" signature="487:1010" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;StackPanel Grid.Column=&quot;0&quot;&gt;&#10;            &lt;rxui:RoutedViewHost Router=&quot;{Binding Router}&quot;&#10;                                 HorizontalContentAlignment=&quot;Stretch&quot;&#10;                                 VerticalContentAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;/rxui:RoutedViewHost&gt;&#10;        &lt;/StackPanel&gt; &lt;StackPanel Grid.Column=&quot;1&quot;&gt;&lt;/StackPanel&gt;.../&gt;" />
+                <marker date="1557252618222" expanded="true" signature="502:647" ph="&lt;&lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;.../&gt;" />
+                <marker date="1557252618222" expanded="true" signature="665:948" ph="&lt;&lt;rxui:RoutedViewHost Router=&quot;{Binding Router}&quot;&#10;                                 HorizontalContentAlignment=&quot;Stretch&quot;&#10;                                 VerticalContentAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;/rxui:RoutedViewHost&gt;.../&gt;" />
+                <marker date="1557252618222" expanded="true" signature="706:926" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/framework/ui.Environment/View/MainPageView.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding>
+                <marker date="1557325259945" expanded="false" signature="6:71" ph="..." />
+                <marker date="1557325259945" expanded="true" signature="99:1045" ph="{...}" />
+                <marker date="1557325259945" expanded="true" signature="106:186" ph="/// Interaction logic for MainPageView.xaml ... " />
+                <marker date="1557325259945" expanded="true" signature="251:1043" ph="{...}" />
+                <marker date="1557325259945" expanded="true" signature="505:560" ph="{...}" />
+                <marker date="1557325259945" expanded="true" signature="595:798" ph="{...}" />
+                <marker date="1557325259945" expanded="true" signature="621:688" ph="{...}" />
+                <marker date="1557325259945" expanded="true" signature="704:788" ph="{...}" />
+                <marker date="1557325259945" expanded="true" signature="839:1037" ph="{...}" />
+                <marker date="1557325259945" expanded="true" signature="942:1027" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/framework/ui.Environment/ui.Environment.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/framework/ui.Environment/ViewModel/MainViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="72" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="72" />
+              <folding>
+                <marker date="1557511290022" expanded="true" signature="34:623" ph="{...}" />
+                <marker date="1557511290022" expanded="false" signature="47:91" ph="..." />
+                <marker date="1557511290022" expanded="true" signature="165:178" ph="{...}" />
+                <marker date="1557511290022" expanded="true" signature="252:621" ph="{...}" />
+                <marker date="1557511290022" expanded="true" signature="303:397" ph="{...}" />
+                <marker date="1557511290022" expanded="true" signature="435:526" ph="{...}" />
+                <marker date="1557511290022" expanded="true" signature="461:516" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+              <folding>
+                <marker date="1557687802683" expanded="true" signature="0:2936" ph="&lt;&lt;Grid x:Name=&quot;RootGrid&quot; VerticalAlignment=&quot;Stretch&quot;&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &lt;StackPanel Grid.Column=&quot;0&quot;&gt;&#10;            &lt;ListBox x:Name=&quot;Chats&quot; Grid.Column=&quot;0&quot; MinWidth=&quot;90&quot;&gt;&#10;                &lt;ListBox.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListBox.ItemTemplate&gt;&#10;            &lt;/ListBox&gt;&#10;            &lt;Button x:Name=&quot;AddChatRoom&quot; &#10;                    Grid.Column=&quot;1&quot; &#10;                    Background=&quot;Transparent&quot; &#10;                    BorderBrush=&quot;Transparent&quot; &#10;                    HorizontalContentAlignment=&quot;Center&quot; &#10;                    VerticalContentAlignment=&quot;Center&quot; Content=&quot;Add chat&quot;&gt;&#10;            &lt;/Button&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;StackPanel Grid.Column=&quot;1&quot; VerticalAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;Grid&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;                    &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;ListBox x:Name=&quot;ListOfMessages&quot; Grid.Row=&quot;0&quot;&gt;&#10;                        &lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;&#10;                    &lt;/ListBox&gt;&#10;                &lt;StackPanel Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/StackPanel&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/StackPanel&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="555:2921" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;StackPanel Grid.Column=&quot;0&quot;&gt;&#10;            &lt;ListBox x:Name=&quot;Chats&quot; Grid.Column=&quot;0&quot; MinWidth=&quot;90&quot;&gt;&#10;                &lt;ListBox.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListBox.ItemTemplate&gt;&#10;            &lt;/ListBox&gt;&#10;            &lt;Button x:Name=&quot;AddChatRoom&quot; &#10;                    Grid.Column=&quot;1&quot; &#10;                    Background=&quot;Transparent&quot; &#10;                    BorderBrush=&quot;Transparent&quot; &#10;                    HorizontalContentAlignment=&quot;Center&quot; &#10;                    VerticalContentAlignment=&quot;Center&quot; Content=&quot;Add chat&quot;&gt;&#10;            &lt;/Button&gt;&#10;        &lt;/StackPanel&gt; &lt;StackPanel Grid.Column=&quot;1&quot; VerticalAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;Grid&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;                    &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;ListBox x:Name=&quot;ListOfMessages&quot; Grid.Row=&quot;0&quot;&gt;&#10;                        &lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;&#10;                    &lt;/ListBox&gt;&#10;                &lt;StackPanel Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/StackPanel&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/StackPanel&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="616:761" ph="&lt;&lt;ColumnDefinition Width=&quot;Auto&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="770:1455" ph="&lt;&lt;ListBox x:Name=&quot;Chats&quot; Grid.Column=&quot;0&quot; MinWidth=&quot;90&quot;&gt;&#10;                &lt;ListBox.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListBox.ItemTemplate&gt;&#10;            &lt;/ListBox&gt; &lt;Button x:Name=&quot;AddChatRoom&quot; &#10;                    Grid.Column=&quot;1&quot; &#10;                    Background=&quot;Transparent&quot; &#10;                    BorderBrush=&quot;Transparent&quot; &#10;                    HorizontalContentAlignment=&quot;Center&quot; &#10;                    VerticalContentAlignment=&quot;Center&quot; Content=&quot;Add chat&quot;&gt;&#10;            &lt;/Button&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="811:1108" ph="&lt;&lt;ListBox.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListBox.ItemTemplate&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="882:1085" ph="&lt;&lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="925:1045" ph="&lt;&lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="1121:1433" ph="&lt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="1464:2909" ph="&lt;&lt;Grid&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;                    &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;ListBox x:Name=&quot;ListOfMessages&quot; Grid.Row=&quot;0&quot;&gt;&#10;                        &lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;&#10;                    &lt;/ListBox&gt;&#10;                &lt;StackPanel Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/StackPanel&gt;&#10;            &lt;/Grid&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="1533:2887" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;                    &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt; &lt;ListBox x:Name=&quot;ListOfMessages&quot; Grid.Row=&quot;0&quot;&gt;&#10;                        &lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;&#10;                    &lt;/ListBox&gt; &lt;StackPanel Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/StackPanel&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="1556:1715" ph="&lt;&lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;Auto&quot;/&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="1732:1991" ph="&lt;&lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="1803:1960" ph="&lt;&lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="1854:1912" ph="&lt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="2008:2867" ph="&lt;&lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="2054:2837" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt; &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt; &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt; &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;.../&gt;" />
+                <marker date="1557687802683" expanded="true" signature="2112:2482" ph="&lt;&lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;5&quot;/&gt; &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt; &lt;ColumnDefinition Width=&quot;5&quot;/&gt; &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/framework/ui.Environment/Loaders/AppBootstrapper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1557517314259" expanded="false" signature="6:190" ph="..." />
+                <marker date="1557517314259" expanded="true" signature="224:1248" ph="{...}" />
+                <marker date="1557517314259" expanded="true" signature="285:1246" ph="{...}" />
+                <marker date="1557517314259" expanded="true" signature="410:695" ph="{...}" />
+                <marker date="1557517314259" expanded="true" signature="778:1195" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IChatsViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <marker date="1557686396954" expanded="false" signature="6:140" ph="..." />
+                <marker date="1557686396954" expanded="true" signature="196:409" ph="{...}" />
+                <marker date="1557686396954" expanded="true" signature="273:407" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="22" column="92" selection-start-line="22" selection-start-column="92" selection-end-line="22" selection-end-column="92" />
+              <folding>
+                <marker date="1557687830298" expanded="false" signature="6:154" ph="..." />
+                <marker date="1557687830298" expanded="true" signature="207:1365" ph="{...}" />
+                <marker date="1557687830298" expanded="true" signature="214:291" ph="/// Interaction logic for ChatsView.xaml ... " />
+                <marker date="1557687830298" expanded="true" signature="354:1363" ph="{...}" />
+                <marker date="1557687830298" expanded="true" signature="604:914" ph="{...}" />
+                <marker date="1557687830298" expanded="true" signature="685:902" ph="{...}" />
+                <marker date="1557687830298" expanded="true" signature="956:1116" ph="{...}" />
+                <marker date="1557687830298" expanded="true" signature="1150:1357" ph="{...}" />
+                <marker date="1557687830298" expanded="true" signature="1176:1244" ph="{...}" />
+                <marker date="1557687830298" expanded="true" signature="1260:1347" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatsViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <marker date="1557686454721" expanded="false" signature="6:261" ph="..." />
+                <marker date="1557686454721" expanded="true" signature="320:1700" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="388:1698" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="613:725" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="794:893" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="820:883" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="931:1053" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="957:1043" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="1159:1597" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="1185:1587" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="1247:1529" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="1350:1508" ph="{...}" />
+                <marker date="1557686454721" expanded="true" signature="1630:1692" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <marker date="1557231931244" expanded="false" signature="6:149" ph="..." />
+                <marker date="1557231931244" expanded="true" signature="208:375" ph="{...}" />
+                <marker date="1557231931244" expanded="true" signature="258:373" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/org/core/Entities/CommunicationDomain/ChatRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/core/Entities/CommunicationDomain/Message.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/framework/ui.Environment/View/MainPageView.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/framework/ui.Environment/View/MainPageView.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/framework/ui.Environment/Loaders/AppBootstrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/framework/ui.Environment/ViewModel/MainViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/08E216AE-6C77-4160-BE8C-93888EBF5A36/9a/638d8fe4/IMutableDependencyResolver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Environment/Mapper/AutoMapperConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IChatViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/ISettingsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/framework/depth/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/framework/depth/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/framework/depth/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/36B95015-8DFB-41E0-A66C-316BD11C945F/CA/AsyncLock.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/framework/depth/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IChatsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/SettingsDomain/SettingsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/framework/ui/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/ui.Internal/Class1.cs" />
+        <option value="$PROJECT_DIR$/ui.Internal/ViewModel/WindowLayoutViewModel.cs" />
+        <option value="$PROJECT_DIR$/Environment/Class1.cs" />
+        <option value="$PROJECT_DIR$/Environment/Mapper/AutoMapperConfiguration.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/ChatViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/ListOfChatsViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/IChatViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/IListOfChatsViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/ISettingsViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/Chats.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatsVIewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/SettingsDomain/SettingsViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/Entities/CommunicationDomain/ChatRoom.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/Entities/CommunicationDomain/Message.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IChatViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatViewModel.cs" />
+        <option value="$PROJECT_DIR$/ui.Internal/Loaders/AppBootstrapper.cs" />
+        <option value="$PROJECT_DIR$/src/framework/ui/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/src/framework/depth/App.xaml.cs" />
+        <option value="$PROJECT_DIR$/src/framework/depth/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/src/framework/depth/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/src/framework/ui.Environment/ViewModel/MainViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IChatsViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/framework/ui.Environment/Loaders/AppBootstrapper.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatsViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml" />
+        <option value="$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="depthClientWinUI" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="depthClientWinUI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="core" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="depthClientWinUI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="framework" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Atlassian/SourceTree/git_local/bin/git.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/src/framework/depth/bin/Debug/depth.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/framework/depth/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/framework/depth/depth.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29ff30dc-70b9-4cd4-bf78-7a1a21dfceef" name="Default Changelist" comment="" />
+      <created>1555578921876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555578921876</updated>
+      <workItem from="1555578924925" duration="19000" />
+      <workItem from="1556793933071" duration="3128000" />
+      <workItem from="1556904582219" duration="1984000" />
+      <workItem from="1556950866980" duration="1139000" />
+      <workItem from="1557164848592" duration="665000" />
+      <workItem from="1557224692267" duration="631000" />
+      <workItem from="1557225794013" duration="3933000" />
+      <workItem from="1557248719148" duration="192000" />
+      <workItem from="1557251924985" duration="716000" />
+      <workItem from="1557309378091" duration="1333000" />
+      <workItem from="1557510486812" duration="5407000" />
+      <workItem from="1557573849497" duration="67000" />
+      <workItem from="1557574243594" duration="273000" />
+      <workItem from="1557574821490" duration="1284000" />
+      <workItem from="1557651498781" duration="1048000" />
+      <workItem from="1557675433683" duration="1890000" />
+      <workItem from="1557744640429" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24313000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29530916" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49621785" weight="0.32502708" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40303358" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49924356" weight="0.30932897" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50378215" side_tool="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="XAML Preview" order="15" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.49621785" weight="0.32502708" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ui.Internal/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/ui.Internal/ViewModel/WindowLayoutViewModel.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/08E216AE-6C77-4160-BE8C-93888EBF5A36/9a/638d8fe4/IMutableDependencyResolver.cs" />
+    <entry file="file://$PROJECT_DIR$/Environment/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Environment/Mapper/AutoMapperConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <marker date="1557227150980" expanded="true" signature="28:486" ph="{...}" />
+            <marker date="1557227150980" expanded="true" signature="99:114" ph="{...}" />
+            <marker date="1557227150980" expanded="true" signature="187:484" ph="{...}" />
+            <marker date="1557227150980" expanded="true" signature="234:267" ph="{...}" />
+            <marker date="1557227150980" expanded="true" signature="309:354" ph="{...}" />
+            <marker date="1557227150980" expanded="true" signature="395:478" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/ui/App.xaml.cs" />
+    <entry file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/ChatViewModel.cs" />
+    <entry file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/ListOfChatsViewModel.cs" />
+    <entry file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IListOfChatsViewModel.cs" />
+    <entry file="file://$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/Chats.cs" />
+    <entry file="file://$PROJECT_DIR$/src/framework/ui/App.xaml" />
+    <entry file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IChatViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <marker date="1557231870804" expanded="false" signature="6:97" ph="..." />
+            <marker date="1557231870804" expanded="true" signature="191:301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/ISettingsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1557227510084" expanded="true" signature="76:97" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.Internal/Loaders/AppBootstrapper.cs" />
+    <entry file="file://$PROJECT_DIR$/src/framework/ui/MainWindow.xaml" />
+    <entry file="file://$PROJECT_DIR$/ui.Internal/ViewModel/MainViewModel.cs" />
+    <entry file="file://$PROJECT_DIR$/src/framework/ui/MainWindow.xaml.cs" />
+    <entry file="file://$PROJECT_DIR$/src/org/core/Entities/CommunicationDomain/Message.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <marker date="1557231711242" expanded="true" signature="73:282" ph="{...}" />
+            <marker date="1557231711242" expanded="true" signature="100:280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/depth/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557249266859" expanded="true" signature="0:351" ph="&lt;&lt;Application.Resources&gt;&#10;         &#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1557249266859" expanded="true" signature="274:336" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/depth/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+          <folding>
+            <marker date="1557252035281" expanded="true" signature="38:174" ph="{...}" />
+            <marker date="1557252035281" expanded="true" signature="45:116" ph="/// Interaction logic for App.xaml ... " />
+            <marker date="1557252035281" expanded="true" signature="159:172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/depth/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1557325642341" expanded="false" signature="6:69" ph="..." />
+            <marker date="1557325642341" expanded="true" signature="86:487" ph="{...}" />
+            <marker date="1557325642341" expanded="true" signature="93:171" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1557325642341" expanded="true" signature="216:485" ph="{...}" />
+            <marker date="1557325642341" expanded="true" signature="250:410" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/36B95015-8DFB-41E0-A66C-316BD11C945F/CA/AsyncLock.cs" />
+    <entry file="file://$PROJECT_DIR$/src/org/core/Entities/CommunicationDomain/ChatRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1557231539772" expanded="true" signature="38:175" ph="{...}" />
+            <marker date="1557231539772" expanded="true" signature="66:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/SettingsDomain/SettingsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1557230833395" expanded="true" signature="52:112" ph="{...}" />
+            <marker date="1557230833395" expanded="true" signature="89:110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/ui.Environment/View/MainPageView.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557572359597" expanded="true" signature="0:554" ph="&lt;&lt;Grid&gt;&#10;            &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1557572359597" expanded="true" signature="508:539" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2113" column="4" selection-start-line="2113" selection-start-column="4" selection-end-line="2113" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/depth/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+          <folding>
+            <marker date="1557252618222" expanded="true" signature="0:1020" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &#10;        &lt;StackPanel Grid.Column=&quot;0&quot;&gt;&#10;            &lt;rxui:RoutedViewHost Router=&quot;{Binding Router}&quot;&#10;                                 HorizontalContentAlignment=&quot;Stretch&quot;&#10;                                 VerticalContentAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;/rxui:RoutedViewHost&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;StackPanel Grid.Column=&quot;1&quot;&gt;&lt;/StackPanel&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1557252618222" expanded="true" signature="487:1010" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;StackPanel Grid.Column=&quot;0&quot;&gt;&#10;            &lt;rxui:RoutedViewHost Router=&quot;{Binding Router}&quot;&#10;                                 HorizontalContentAlignment=&quot;Stretch&quot;&#10;                                 VerticalContentAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;/rxui:RoutedViewHost&gt;&#10;        &lt;/StackPanel&gt; &lt;StackPanel Grid.Column=&quot;1&quot;&gt;&lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1557252618222" expanded="true" signature="502:647" ph="&lt;&lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;.../&gt;" />
+            <marker date="1557252618222" expanded="true" signature="665:948" ph="&lt;&lt;rxui:RoutedViewHost Router=&quot;{Binding Router}&quot;&#10;                                 HorizontalContentAlignment=&quot;Stretch&quot;&#10;                                 VerticalContentAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;/rxui:RoutedViewHost&gt;.../&gt;" />
+            <marker date="1557252618222" expanded="true" signature="706:926" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/ui.Environment/View/MainPageView.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <marker date="1557325259945" expanded="false" signature="6:71" ph="..." />
+            <marker date="1557325259945" expanded="true" signature="99:1045" ph="{...}" />
+            <marker date="1557325259945" expanded="true" signature="106:186" ph="/// Interaction logic for MainPageView.xaml ... " />
+            <marker date="1557325259945" expanded="true" signature="251:1043" ph="{...}" />
+            <marker date="1557325259945" expanded="true" signature="505:560" ph="{...}" />
+            <marker date="1557325259945" expanded="true" signature="595:798" ph="{...}" />
+            <marker date="1557325259945" expanded="true" signature="621:688" ph="{...}" />
+            <marker date="1557325259945" expanded="true" signature="704:788" ph="{...}" />
+            <marker date="1557325259945" expanded="true" signature="839:1037" ph="{...}" />
+            <marker date="1557325259945" expanded="true" signature="942:1027" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/ui.Environment/ui.Environment.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/ui.Environment/ViewModel/MainViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="72" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="72" />
+          <folding>
+            <marker date="1557511290022" expanded="true" signature="34:623" ph="{...}" />
+            <marker date="1557511290022" expanded="false" signature="47:91" ph="..." />
+            <marker date="1557511290022" expanded="true" signature="165:178" ph="{...}" />
+            <marker date="1557511290022" expanded="true" signature="252:621" ph="{...}" />
+            <marker date="1557511290022" expanded="true" signature="303:397" ph="{...}" />
+            <marker date="1557511290022" expanded="true" signature="435:526" ph="{...}" />
+            <marker date="1557511290022" expanded="true" signature="461:516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <marker date="1557687802683" expanded="true" signature="0:2936" ph="&lt;&lt;Grid x:Name=&quot;RootGrid&quot; VerticalAlignment=&quot;Stretch&quot;&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &lt;StackPanel Grid.Column=&quot;0&quot;&gt;&#10;            &lt;ListBox x:Name=&quot;Chats&quot; Grid.Column=&quot;0&quot; MinWidth=&quot;90&quot;&gt;&#10;                &lt;ListBox.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListBox.ItemTemplate&gt;&#10;            &lt;/ListBox&gt;&#10;            &lt;Button x:Name=&quot;AddChatRoom&quot; &#10;                    Grid.Column=&quot;1&quot; &#10;                    Background=&quot;Transparent&quot; &#10;                    BorderBrush=&quot;Transparent&quot; &#10;                    HorizontalContentAlignment=&quot;Center&quot; &#10;                    VerticalContentAlignment=&quot;Center&quot; Content=&quot;Add chat&quot;&gt;&#10;            &lt;/Button&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;StackPanel Grid.Column=&quot;1&quot; VerticalAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;Grid&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;                    &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;ListBox x:Name=&quot;ListOfMessages&quot; Grid.Row=&quot;0&quot;&gt;&#10;                        &lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;&#10;                    &lt;/ListBox&gt;&#10;                &lt;StackPanel Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/StackPanel&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/StackPanel&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="555:2921" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;StackPanel Grid.Column=&quot;0&quot;&gt;&#10;            &lt;ListBox x:Name=&quot;Chats&quot; Grid.Column=&quot;0&quot; MinWidth=&quot;90&quot;&gt;&#10;                &lt;ListBox.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListBox.ItemTemplate&gt;&#10;            &lt;/ListBox&gt;&#10;            &lt;Button x:Name=&quot;AddChatRoom&quot; &#10;                    Grid.Column=&quot;1&quot; &#10;                    Background=&quot;Transparent&quot; &#10;                    BorderBrush=&quot;Transparent&quot; &#10;                    HorizontalContentAlignment=&quot;Center&quot; &#10;                    VerticalContentAlignment=&quot;Center&quot; Content=&quot;Add chat&quot;&gt;&#10;            &lt;/Button&gt;&#10;        &lt;/StackPanel&gt; &lt;StackPanel Grid.Column=&quot;1&quot; VerticalAlignment=&quot;Stretch&quot;&gt;&#10;            &lt;Grid&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;                    &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;ListBox x:Name=&quot;ListOfMessages&quot; Grid.Row=&quot;0&quot;&gt;&#10;                        &lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;&#10;                    &lt;/ListBox&gt;&#10;                &lt;StackPanel Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/StackPanel&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="616:761" ph="&lt;&lt;ColumnDefinition Width=&quot;Auto&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="770:1455" ph="&lt;&lt;ListBox x:Name=&quot;Chats&quot; Grid.Column=&quot;0&quot; MinWidth=&quot;90&quot;&gt;&#10;                &lt;ListBox.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListBox.ItemTemplate&gt;&#10;            &lt;/ListBox&gt; &lt;Button x:Name=&quot;AddChatRoom&quot; &#10;                    Grid.Column=&quot;1&quot; &#10;                    Background=&quot;Transparent&quot; &#10;                    BorderBrush=&quot;Transparent&quot; &#10;                    HorizontalContentAlignment=&quot;Center&quot; &#10;                    VerticalContentAlignment=&quot;Center&quot; Content=&quot;Add chat&quot;&gt;&#10;            &lt;/Button&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="811:1108" ph="&lt;&lt;ListBox.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListBox.ItemTemplate&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="882:1085" ph="&lt;&lt;DataTemplate&gt;&#10;                        &lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;&#10;                    &lt;/DataTemplate&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="925:1045" ph="&lt;&lt;TextBlock Text=&quot;{Binding Name}&quot;&gt;&lt;/TextBlock&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="1121:1433" ph="&lt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="1464:2909" ph="&lt;&lt;Grid&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;                    &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;ListBox x:Name=&quot;ListOfMessages&quot; Grid.Row=&quot;0&quot;&gt;&#10;                        &lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;&#10;                    &lt;/ListBox&gt;&#10;                &lt;StackPanel Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/StackPanel&gt;&#10;            &lt;/Grid&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="1533:2887" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;                    &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt; &lt;ListBox x:Name=&quot;ListOfMessages&quot; Grid.Row=&quot;0&quot;&gt;&#10;                        &lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;&#10;                    &lt;/ListBox&gt; &lt;StackPanel Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="1556:1715" ph="&lt;&lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;Auto&quot;/&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="1732:1991" ph="&lt;&lt;ListBox.ItemTemplate&gt;&#10;                            &lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;&#10;                        &lt;/ListBox.ItemTemplate&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="1803:1960" ph="&lt;&lt;DataTemplate&gt;&#10;                            &lt;/DataTemplate&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="1854:1912" ph="&lt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="2008:2867" ph="&lt;&lt;Grid x:Name=&quot;MessageController&quot;&gt;&#10;                        &lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt;&#10;                        &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt;&#10;                        &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt;&#10;                        &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="2054:2837" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;                            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;5&quot;/&gt;&#10;                            &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;&#10;                        &lt;/Grid.ColumnDefinitions&gt; &lt;TextBox x:Name=&quot;MessageInput&quot; Grid.Column=&quot;0&quot; Height=&quot;40&quot; FontSize=&quot;14&quot; VerticalContentAlignment=&quot;Center&quot;&gt;&lt;/TextBox&gt; &lt;Button x:Name=&quot;MessageSendButton&quot; Grid.Column=&quot;2&quot; Content=&quot;Send&quot;/&gt; &lt;Button x:Name=&quot;MessageFormats&quot; Grid.Column=&quot;4&quot; Content=&quot;Features&quot;/&gt;.../&gt;" />
+            <marker date="1557687802683" expanded="true" signature="2112:2482" ph="&lt;&lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;5&quot;/&gt; &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt; &lt;ColumnDefinition Width=&quot;5&quot;/&gt; &lt;ColumnDefinition Width=&quot;Auto&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/framework/ui.Environment/Loaders/AppBootstrapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1557517314259" expanded="false" signature="6:190" ph="..." />
+            <marker date="1557517314259" expanded="true" signature="224:1248" ph="{...}" />
+            <marker date="1557517314259" expanded="true" signature="285:1246" ph="{...}" />
+            <marker date="1557517314259" expanded="true" signature="410:695" ph="{...}" />
+            <marker date="1557517314259" expanded="true" signature="778:1195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/core/Infrastructure/ViewModel/СommunicationDomain/IChatsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1557686396954" expanded="false" signature="6:140" ph="..." />
+            <marker date="1557686396954" expanded="true" signature="196:409" ph="{...}" />
+            <marker date="1557686396954" expanded="true" signature="273:407" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/core/VisualComponents/View/CommunicationDomain/ChatsView.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="92" selection-start-line="22" selection-start-column="92" selection-end-line="22" selection-end-column="92" />
+          <folding>
+            <marker date="1557687830298" expanded="false" signature="6:154" ph="..." />
+            <marker date="1557687830298" expanded="true" signature="207:1365" ph="{...}" />
+            <marker date="1557687830298" expanded="true" signature="214:291" ph="/// Interaction logic for ChatsView.xaml ... " />
+            <marker date="1557687830298" expanded="true" signature="354:1363" ph="{...}" />
+            <marker date="1557687830298" expanded="true" signature="604:914" ph="{...}" />
+            <marker date="1557687830298" expanded="true" signature="685:902" ph="{...}" />
+            <marker date="1557687830298" expanded="true" signature="956:1116" ph="{...}" />
+            <marker date="1557687830298" expanded="true" signature="1150:1357" ph="{...}" />
+            <marker date="1557687830298" expanded="true" signature="1176:1244" ph="{...}" />
+            <marker date="1557687830298" expanded="true" signature="1260:1347" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1557231931244" expanded="false" signature="6:149" ph="..." />
+            <marker date="1557231931244" expanded="true" signature="258:373" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/core/ProcessComponents/ViewModel/СommunicationDomain/ChatsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <marker date="1557686454721" expanded="false" signature="6:261" ph="..." />
+            <marker date="1557686454721" expanded="true" signature="320:1700" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="388:1698" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="613:725" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="794:893" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="820:883" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="931:1053" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="957:1043" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="1159:1597" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="1185:1587" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="1247:1529" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="1350:1508" ph="{...}" />
+            <marker date="1557686454721" expanded="true" signature="1630:1692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

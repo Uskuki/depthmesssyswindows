@@ -1,0 +1,74 @@
+﻿<UserControl x:Class="VisualComponents.View.CommunicationDomain.ChatsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:VisualComponents.View.CommunicationDomain"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid x:Name="RootGrid" VerticalAlignment="Stretch">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <ScrollViewer Grid.Row="0" Height="375" VerticalScrollBarVisibility="Auto">
+                <ListBox x:Name="Chats" MinWidth="90" ScrollViewer.CanContentScroll="True">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Name}"></TextBlock>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+            </ScrollViewer>
+            <StackPanel Grid.Row="1">
+                <Button x:Name="AddChatRoom" 
+                        Grid.Column="1" 
+                        Background="Transparent" 
+                        BorderBrush="Transparent" 
+                        HorizontalContentAlignment="Center" 
+                        VerticalContentAlignment="Center" Content="Add chat" Height="40">
+                </Button>
+            </StackPanel>
+            </Grid>
+        </StackPanel>
+        <StackPanel Grid.Column="1" VerticalAlignment="Stretch">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="0" Height="375">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <ListBox x:Name="ListOfMessages">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </ScrollViewer>
+                </StackPanel>
+                <StackPanel Grid.Row="1">
+                    <Grid x:Name="MessageController">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="5"/>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="5"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBox x:Name="MessageInput" Grid.Column="0" Height="40" FontSize="14" VerticalContentAlignment="Center"></TextBox>
+                        <Button x:Name="MessageSendButton" Grid.Column="2" Content="Send"/>
+                        <Button x:Name="MessageFormats" Grid.Column="4" Content="Features"/>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</UserControl>
